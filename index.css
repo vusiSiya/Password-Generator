@@ -1,0 +1,65 @@
+body {
+    
+}
+#MainContent {
+    margin: 100px 300px 200px 200px;
+    width: 400px;
+    height: 300px;
+    background-color: purple;
+}
+
+#Gen {
+    color: white;
+    margin: 20px 0px 0px 10px;
+}
+
+#randm {
+    color: green;
+    margin-top: 0%;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#never {
+    color: gray;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+#gen-PswdBtn {
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    height: 40px;
+}
+
+#p1, #p2 {
+    color: green;
+    font-size: 13px;
+    font-family: Helvetica;
+    font-weight: 10px;
+    padding: 4px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: plum;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#password-El {
+    color: plum;
+    font-size: 13px;
+    font-family: Helvetica;
+    font-weight: 100px;
+    padding: 4px;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
