@@ -1,7 +1,7 @@
-# Password-Generator
+## Password-Generator
 A Solo Project of the scrimba.com JavaScript course.
 
-# Description:
+## Description:
 
 A web application that creates a randomly generated password.
 
